@@ -1,6 +1,6 @@
 # Front end I
 
-## Checkpoint 02
+## Checkpoint 01
 
 ### Objetivo
 
