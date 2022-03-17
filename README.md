@@ -10,12 +10,12 @@
 
 #### Temas avaliados
 
-. Semântica do código Front End
-. Tags HTML
-. Seletores CSS
-. Flexbox
-. Design Adaptativo.
-. Layout 
+1. Semântica do código Front End
+2. Tags HTML
+3. Seletores CSS
+4. Flexbox
+5. Design Adaptativo.
+6. Layout 
 
 Confira o layout esperado para a sua página web no seguinte link: [Layout no Figma](https://www.figma.com/file/sYAbpnjvD6juYawfRyZDbh/Untitled?node-id=0%3A1)
 
