@@ -148,3 +148,35 @@ footer {
 footer img {
   width: 20%;
 }
+
+@media (max-width: 460px) {
+  header.cabecalho {
+    font-size: 0.5rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    height: 250px;
+    align-items: center;
+  }
+
+  div.card {
+    width: 85%;
+    margin-bottom: 10px;
+  }
+
+  section.video h5 {
+    font-size: 0.8rem;
+  }
+
+  iframe {
+    width: 420px;
+  }
+
+  footer {
+    flex-direction: column;
+  }
+
+  footer a {
+    padding: 10px;
+  }
+}
